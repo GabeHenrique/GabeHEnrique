@@ -8,7 +8,7 @@
 const gabrielRodrigues = {
   pronouns: "he" | "his",
   code: [Java, Javascript, HTML, CSS],
-  tools: [React, Node, Styled-Components, Spring Security, Spring Boot],
+  tools: [Spring Security, Spring Boot, React, Node, Styled-Components],
   architecture: ["microservices", "rest api", "design system pattern"],
 }
 ```
