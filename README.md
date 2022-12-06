@@ -4,13 +4,12 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const gabrielRodrigues = {
-  pronouns: "he" | "his",
-  code: [Java, Javascript, HTML, CSS],
-  tools: [Spring Security, Spring Boot, React, Node, Styled-Components],
-  architecture: ["microservices", "rest api", "design system pattern"],
-}
+```java
+ Developer gabrielRodrigues = Developer.builder()
+    .code(List.of("Java", "Javascript", "Typescript", "HTML", "CSS"))
+    .tools(List.of("Spring", "Spring Boot", "React", "Node"))
+    .architecture(List.of("microservices","rest api","design system pattern"))
+    .build();
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
