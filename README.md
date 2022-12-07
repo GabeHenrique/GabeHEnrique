@@ -8,7 +8,7 @@
  var gabrielRodrigues = Developer.builder()
     .code(List.of("Java", "Javascript", "Typescript", "HTML", "CSS"))
     .tools(List.of("Spring", "Spring Boot", "React", "Node"))
-    .architecture(List.of("microservices","rest api","design system pattern"))
+    .architecture(List.of("microservices","rest-api"))
     .build();
 ```
 
