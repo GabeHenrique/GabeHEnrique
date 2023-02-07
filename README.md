@@ -1,5 +1,5 @@
 <h2> Hi, I'm Gabriel Rodrigues! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>System Analysis and Development Student at <a href="http://www.unb.br">Universidade de Sorocaba</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Back-end Developer at <a href="https://www.unoerp.com.br/">Nuvy ERP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>System Analysis and Development Student at <a href="http://uniso.br/home">Universidade de Sorocaba</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Back-end Developer at <a href="https://ativy.com/">Ativy</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
