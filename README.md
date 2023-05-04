@@ -8,8 +8,8 @@
   public void createDeveloper() {
     Developer.builder()
       .name("Gabriel Rodrigues")
-      .code(List.of("Java", "Javascript", "Typescript", "HTML", "CSS"))
-      .tools(List.of("Spring", "Spring Boot", "React", "Node"))
+      .code(List.of("Java", "Kotlin", "Dart", "Javascript", "Typescript", "HTML", "CSS"))
+      .tools(List.of("Spring Framework", "PostgreSQL", "Thymeleaf", "Jasper Reports", "Itext"))
       .architecture(List.of("microservices", "rest-api"))
       .build();
   }
