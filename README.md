@@ -9,7 +9,7 @@
   public void createDeveloper() {
     Developer.builder()
       .name("Gabriel Rodrigues")
-      .code(List.of("Java", "Kotlin", "Dart", "Javascript", "Typescript", "HTML", "CSS"))
+      .code(List.of("Java", "Kotlin", "Javascript", "Typescript", "HTML", "CSS"))
       .tools(List.of("Spring Framework", "PostgreSQL", "Thymeleaf", "Jasper Reports", "Itext"))
       .architecture(List.of("microservices", "rest-api"))
       .build();
