@@ -19,7 +19,6 @@
 
 <div >
 <a href="https://github.com/GabeHenrique">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=GabeHenrique&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 <img align="right"height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeHenrique&layout=compact&langs_count=7&theme=transparent"/>
 
 </div>
