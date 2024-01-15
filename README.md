@@ -17,12 +17,5 @@
 ```
 </br>
 
-<div >
-<a href="https://github.com/GabeHenrique">
-<img align="right"height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeHenrique&layout=compact&langs_count=7&theme=transparent"/>
-
-</div>
-
-
 ### <b>I will be happy to exchange knowledge</b> :)
 ---
