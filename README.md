@@ -10,7 +10,7 @@
     Developer.builder()
       .name("Gabriel Rodrigues")
       .code(List.of("Java", "Kotlin", "Javascript", "Typescript", "HTML", "CSS"))
-      .tools(List.of("Spring Framework", "PostgreSQL", "Thymeleaf", "Jasper Reports", "Itext"))
+      .tools(List.of("Spring Framework", "PostgreSQL", "Thymeleaf", "Jasper Reports"))
       .architecture(List.of("microservices", "rest-api"))
       .build();
   }
